@@ -22,3 +22,4 @@ A fullstack web application created with Python and Django
 * Pillow
 * Django Core Mail
 
+*previous commits not publicly available, always remember your gitignore kids!* 
